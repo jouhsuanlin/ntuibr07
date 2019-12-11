@@ -5,6 +5,7 @@ Created on Wed Oct 23 18:28:53 2019
 
 @author: jeanwang
 """
+f
 import math
 import statistics
 
